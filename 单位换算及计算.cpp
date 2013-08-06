@@ -1,6 +1,7 @@
 /*
 created by crazyboysk @ SWPU in 2013 for "Code to Change"
 mail:xjzdy3000@163.com
+VC++6.0  windows XP 
 */
 
 #include<stdio.h>
